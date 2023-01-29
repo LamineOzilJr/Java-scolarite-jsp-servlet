@@ -1,0 +1,27 @@
+
+jWeb:DoctypePresenceCheck
+":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ8®¦ƒ“Ü0
+a	Web:S5254
+"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ8±¦ƒ“Ü0
+JWeb:BoldAndItalicTagsCheck9"Replace this <i> tag by <em>.(å˜šö8²¦ƒ“Ü0
+JWeb:BoldAndItalicTagsCheck?"Replace this <i> tag by <em>.(¤•â’8µ¦ƒ“Ü0
+OWeb:BoldAndItalicTagsCheckH"Replace this <i> tag by <em>.(±ÚŒ»ùÿÿÿÿ8µ¦ƒ“Ü0
+JWeb:BoldAndItalicTagsCheckO"Replace this <i> tag by <em>.(¸È’”8µ¦ƒ“Ü0
+OWeb:BoldAndItalicTagsCheck]"Replace this <i> tag by <em>.(è™Œóşÿÿÿÿ8µ¦ƒ“Ü0
+OWeb:BoldAndItalicTagsCheckj"Replace this <i> tag by <em>.(ÓÛ…ïşÿÿÿÿ8µ¦ƒ“Ü0
+OWeb:BoldAndItalicTagsCheckw"Replace this <i> tag by <em>.(½õå«øÿÿÿÿ8µ¦ƒ“Ü0
+KWeb:BoldAndItalicTagsCheck„"Replace this <i> tag by <em>.(ÂÌÏ8µ¦ƒ“Ü0
+KWeb:BoldAndItalicTagsCheckš"Replace this <i> tag by <em>.(Ùòòó8µ¦ƒ“Ü0
+KWeb:BoldAndItalicTagsCheckã"Replace this <i> tag by <em>.(™ÖéÜ8µ¦ƒ“Ü0
+KWeb:BoldAndItalicTagsCheck÷"Replace this <i> tag by <em>.(ŞÑ®8µ¦ƒ“Ü0
+KWeb:BoldAndItalicTagsCheckş"Replace this <i> tag by <em>.(Ê—œ†8µ¦ƒ“Ü0
+KWeb:BoldAndItalicTagsCheckş"Replace this <i> tag by <em>.(Ê—œ†8‚¸…“Ü0
+PWeb:BoldAndItalicTagsCheckƒ"Replace this <i> tag by <em>.(š†Ï°ùÿÿÿÿ8‚¸…“Ü0
+PWeb:BoldAndItalicTagsCheckˆ"Replace this <i> tag by <em>.(ò÷ìşûÿÿÿÿ8‚¸…“Ü0
+PWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(Í¸ŸÁıÿÿÿÿ8‚¸…“Ü0
+PWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(Í¸ŸÁıÿÿÿÿ8‚¸…“Ü0
+PWeb:BoldAndItalicTagsCheck•"Replace this <i> tag by <em>.(ÕÌÇ¬ÿÿÿÿÿ8Ç¥ˆ“Ü0
+PWeb:BoldAndItalicTagsCheckš"Replace this <i> tag by <em>.(ğøçøÿÿÿÿ8Ç¥ˆ“Ü0
+PWeb:TableWithoutCaptionCheck§" Add a description to this table.(¥ó‰8ƒ¸…“Ü0
+B	Web:S5256§"%Add "<th>" headers to this "<table>".(¥ó‰8ƒ¸…“Ü0
+KWeb:BoldAndItalicTagsCheckÆ"Replace this <i> tag by <em>.(ÿ…8¶¦ƒ“Ü0

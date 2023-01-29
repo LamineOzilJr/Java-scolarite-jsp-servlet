@@ -1,0 +1,21 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(‡Œïøþÿÿÿÿ
+`
+java:S3252"JUse static access with "org.hibernate.cfg.AvailableSettings" for "DRIVER".(ùÎ¥ç
+]
+java:S3252"GUse static access with "org.hibernate.cfg.AvailableSettings" for "URL".(©ýö½
+^
+java:S3252"HUse static access with "org.hibernate.cfg.AvailableSettings" for "USER".(è©šŒ
+c
+java:S3252"HUse static access with "org.hibernate.cfg.AvailableSettings" for "PASS".(­ öÉýÿÿÿÿ
+a
+java:S3252"KUse static access with "org.hibernate.cfg.AvailableSettings" for "DIALECT".(Üë¸þ
+f
+java:S3252"PUse static access with "org.hibernate.cfg.AvailableSettings" for "HBM2DDL_AUTO".(¢‰Ý 
+b
+java:S3252"LUse static access with "org.hibernate.cfg.AvailableSettings" for "SHOW_SQL".(÷µ•–
+i
+java:S3252"NUse static access with "org.hibernate.cfg.AvailableSettings" for "FORMAT_SQL".(÷„ÖŒûÿÿÿÿ
+w
+java:S3252!"aUse static access with "org.hibernate.cfg.AvailableSettings" for "CURRENT_SESSION_CONTEXT_CLASS".(ßÓÿ­

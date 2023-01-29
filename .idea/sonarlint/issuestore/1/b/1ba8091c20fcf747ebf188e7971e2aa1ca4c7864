@@ -1,0 +1,11 @@
+
+w
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(˜¼ù
+P	java:S125"<This block of commented-out lines of code should be removed.(òm
+V	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+Y
+java:S1128">Remove this unused import 'com.groupeisi.scolarite.dao.IUser'.(ÆÓşøÿÿÿÿ
+\
+java:S1128"ARemove this unused import 'com.groupeisi.scolarite.dao.UserImpl'.(‚í«şøÿÿÿÿ
+Q
+java:S1128";Remove this unused import 'javax.servlet.http.HttpSession'.(í¨ô

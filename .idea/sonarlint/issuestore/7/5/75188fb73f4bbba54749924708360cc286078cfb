@@ -1,0 +1,30 @@
+
+P
+java:S1854"5Remove this useless assignment to local variable "r".(äÆ‘óùÿÿÿÿ
+A
+java:S1481"&Remove this unused "r" local variable.(äÆ‘óùÿÿÿÿ
+~
+java:S1989#"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(“†ŒÒ8¼âíÜ0
+P
+java:S1854."5Remove this useless assignment to local variable "r".(äÆ‘óùÿÿÿÿ
+A
+java:S1481."&Remove this unused "r" local variable.(äÆ‘óùÿÿÿÿ
+t
+java:S19892"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(Ø±­Éúÿÿÿÿ
+z
+java:S1989<"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(—ôÖ¢øÿÿÿÿ
+Y
+java:S1128">Remove this unused import 'com.groupeisi.scolarite.dao.IRole'.(ÌÆÕúÿÿÿÿÿ
+Y
+java:S1128">Remove this unused import 'com.groupeisi.scolarite.dao.IUser'.(ÆÓşøÿÿÿÿ
+W
+java:S1128"ARemove this unused import 'com.groupeisi.scolarite.dao.RoleImpl'.(¨Ã‡à
+\
+java:S1128"ARemove this unused import 'com.groupeisi.scolarite.dao.UserImpl'.(‚í«şøÿÿÿÿ
+X
+java:S1128	"CRemove this unused import 'com.groupeisi.scolarite.entities.Roles'.(‘–f
+W
+java:S1128
+"BRemove this unused import 'com.groupeisi.scolarite.entities.User'.(µÇ‚
+X
+java:S1128";Remove this unused import 'javax.servlet.http.HttpSession'.(í¨ô8Á«”Ü0

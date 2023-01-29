@@ -1,0 +1,11 @@
+
+t
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(èÑ¼İüÿÿÿÿ
+t
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨÷´ÿÿÿÿÿ
+O
+java:S1854"9Remove this useless assignment to local variable "users".(Ğ÷¤¤
+h	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åµ€áúÿÿÿÿ
+c	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“œ¤É
+G
+java:S16026",Remove useless curly braces around statement(œº­ıÿÿÿÿ

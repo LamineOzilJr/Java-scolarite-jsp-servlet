@@ -1,0 +1,8 @@
+
+t
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹Æº ıÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(•ŠŸæ
+`
+java:S1128">Remove this unused import 'com.groupeisi.scolarite.dao.IRole'.(ÌÆÕúÿÿÿÿÿ8ÑŞúÜ0
+X
+java:S1128";Remove this unused import 'javax.management.relation.Role'.(ëÎåè8ÑŞúÜ0
